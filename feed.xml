@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://d-juhasz.github.io/</id>
+  <title>Daniel Juhasz</title>
+  <subtitle>My personal blog.</subtitle>
+  <updated>2026-04-01T15:16:02+00:00</updated>
+  <author>
+    <name>Daniel Juhasz</name>
+    <uri>https://d-juhasz.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://d-juhasz.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://d-juhasz.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 Daniel Juhasz </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>My Test Blog</title>
+    <link href="https://d-juhasz.github.io/posts/test-post/" rel="alternate" type="text/html" title="My Test Blog" />
+    <published>2026-04-01T14:31:00+00:00</published>
+  
+    <updated>2026-04-01T15:04:18+00:00</updated>
+  
+    <id>https://d-juhasz.github.io/posts/test-post/</id>
+    <content type="text/html" src="https://d-juhasz.github.io/posts/test-post/" />
+    <author>
+      <name><author_id></name>
+    </author>
+
+  
+    
+    <category term="test_top" />
+    
+    <category term="test_sub" />
+    
+  
+
+  <summary>Short summary of the post.</summary>
+
+  </entry>
+
+</feed>
+
+
